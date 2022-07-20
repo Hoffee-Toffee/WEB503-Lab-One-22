@@ -1,0 +1,29 @@
+{
+  "name": "web503-lab-one-22",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Tristan Bulmer",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Transit-Lumber/WEB503-Lab-One-22.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Transit-Lumber/WEB503-Lab-One-22/issues"
+  },
+  "homepage": "https://github.com/Transit-Lumber/WEB503-Lab-One-22#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "node-env-run": "^4.0.2"
+  }
+}
